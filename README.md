@@ -45,23 +45,24 @@ Proposed Tech Stack:
 - **Power BI:** For data visualization and sentiment analysis.
 - **PowerPoint:** For presenting findings, insights, and strategic recommendations to stakeholders in a clear and engaging manner.
 
-
 # Exploratory Data Analysis (EDA) and Cleaning Process Overview
 
 1. **Data Ingestion & Staging**  
    I began by creating a **staging area** to efficiently import the raw data into **PostgreSQL**, establishing a pipeline to support data transformation and analysis.
 
-2. **Data Modeling**
+![](Screenshot (516).png)
+
+3. **Data Modeling**
    The data was structured into fact and dimension tables, resulting in three key tables:
    - **Customer Table**
    - **Social Media Table**
    - **Transactions Table**
    After modeling the data, I established relationships between the tables to enable efficient querying and analysis.
 
-3. **Data Cleaning**  
+4. **Data Cleaning**  
    I cleaned the dataset by removing **duplicate records**, handling **missing values**, and eliminating **irrelevant or empty columns** to ensure data quality and consistency.
 
-4. **Exploratory Data Analysis (EDA)**  
+5. **Exploratory Data Analysis (EDA)**  
    With a clean and structured dataset, I conducted a thorough EDA focused on identifying key performance indicators (KPIs), including:  
    - **Sentiment Scores**  
    - **Customer Engagement Metrics**  
