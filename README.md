@@ -55,8 +55,8 @@ Proposed Tech Stack:
 3. **Data Modeling**
    The data was structured into fact and dimension tables, resulting in three key tables:
    - **Customer Table**
-   - **Social Media Table**
    - **Transactions Table**
+   - **Social Media Table**
    After modeling the data, I established relationships between the tables to enable efficient querying and analysis.
 
 ![Image](https://github.com/user-attachments/assets/aca6c33d-2574-4711-a943-1fa8b8b9e842)
