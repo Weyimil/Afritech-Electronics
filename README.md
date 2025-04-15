@@ -50,7 +50,9 @@ Proposed Tech Stack:
 1. **Data Ingestion & Staging**  
    I began by creating a **staging area** to efficiently import the raw data into **PostgreSQL**, establishing a pipeline to support data transformation and analysis.
 
-![](Screenshot (516).png)
+![Image](https://github.com/user-attachments/assets/aca6c33d-2574-4711-a943-1fa8b8b9e842)
+
+![Image](https://github.com/user-attachments/assets/470a648f-d531-47e4-8daa-c8b26446bb97)
 
 3. **Data Modeling**
    The data was structured into fact and dimension tables, resulting in three key tables:
@@ -131,7 +133,9 @@ After completing my **Exploratory Data Analysis (EDA)** in Postgresql, I proceed
   - Crisis Response Analysis
   - Social Media Engagement Metrics
   - Strategic Recommendations
-<!-- Uploading "Afritech Powerpoint screentshot.GIF"... -->
+    
+![Image](https://github.com/user-attachments/assets/991201b3-9c6b-467d-bc1c-603fb1727863)
+
 ---
 
 ### **7. Final Review and Delivery**
