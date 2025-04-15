@@ -131,9 +131,7 @@ After completing my **Exploratory Data Analysis (EDA)** in Postgresql, I proceed
   - Crisis Response Analysis
   - Social Media Engagement Metrics
   - Strategic Recommendations
-
-![](Afritech Powerpoint screentshot.GIF)
-
+<!-- Uploading "Afritech Powerpoint screentshot.GIF"... -->
 ---
 
 ### **7. Final Review and Delivery**
