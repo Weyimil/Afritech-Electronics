@@ -50,9 +50,7 @@ Proposed Tech Stack:
 1. **Data Ingestion & Staging**  
    I began by creating a **staging area** to efficiently import the raw data into **PostgreSQL**, establishing a pipeline to support data transformation and analysis.
 
-![Image](https://github.com/user-attachments/assets/aca6c33d-2574-4711-a943-1fa8b8b9e842)
-
-![Image](https://github.com/user-attachments/assets/470a648f-d531-47e4-8daa-c8b26446bb97)
+![Image](https://github.com/user-attachments/assets/91a006b4-ffc3-483a-a3ae-58ca2c63567b)
 
 3. **Data Modeling**
    The data was structured into fact and dimension tables, resulting in three key tables:
@@ -60,6 +58,10 @@ Proposed Tech Stack:
    - **Social Media Table**
    - **Transactions Table**
    After modeling the data, I established relationships between the tables to enable efficient querying and analysis.
+
+![Image](https://github.com/user-attachments/assets/aca6c33d-2574-4711-a943-1fa8b8b9e842)
+
+![Image](https://github.com/user-attachments/assets/470a648f-d531-47e4-8daa-c8b26446bb97)
 
 4. **Data Cleaning**  
    I cleaned the dataset by removing **duplicate records**, handling **missing values**, and eliminating **irrelevant or empty columns** to ensure data quality and consistency.
