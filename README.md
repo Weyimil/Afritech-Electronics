@@ -114,10 +114,15 @@ After completing my **Exploratory Data Analysis (EDA)** in Postgresql, I proceed
    Customer Demographics Dashboard – to analyze customer profiles, behavior, and segmentation.
    Sales Dashboard – to monitor performance by product, region, and customer type.
    Social Media Insights Dashboard – to evaluate platform engagement, content type effectiveness, and trends.
-
 - Incorporated **slicers and filters** to allow management to drill down by region, customer type, and product.
 - Designed dashboards with **user experience and executive readability** in mind.
 - Ensured a clean, executive-friendly layout suitable for both desktop and mobile viewing.
+
+![Image](https://github.com/user-attachments/assets/ff5c51bf-d99f-4b99-89a0-388ceb440bd6)
+
+![Image](https://github.com/user-attachments/assets/c7d801c6-cb64-4f33-939e-dd6c48be8c3d)
+
+![Image](https://github.com/user-attachments/assets/4e9c65f5-a576-40ea-9419-44e1490765bb)
 
 ---
 
