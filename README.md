@@ -73,7 +73,10 @@ Proposed Tech Stack:
    - **Product Recalls**  
    - **Trends in Negative Sentiments**  
    - And other relevant insights for deeper business understanding.
+     
+![Image](https://github.com/user-attachments/assets/6de666aa-b5e1-4919-9335-541b0458ed9a)
 
+![Image](https://github.com/user-attachments/assets/367badf8-31dc-49b4-b70e-69194820b0d1)
 
 ### **Project Workflow Summary**
 
