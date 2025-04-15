@@ -111,9 +111,9 @@ After completing my **Exploratory Data Analysis (EDA)** in Postgresql, I proceed
 
 ### **4. Interactive Visualizations**
 - Designed and developed three dynamic, interactive dashboards:
-   Customer Demographics Dashboard – to analyze customer profiles, behavior, and segmentation.
-   Sales Dashboard – to monitor performance by product, region, and customer type.
-   Social Media Insights Dashboard – to evaluate platform engagement, content type effectiveness, and trends.
+   -Customer Demographics Dashboard – to analyze customer profiles, behavior, and segmentation.
+   -Sales Dashboard – to monitor performance by product, region, and customer type.
+   -Social Media Insights Dashboard – to evaluate platform engagement, content type effectiveness, and trends.
 - Incorporated **slicers and filters** to allow management to drill down by region, customer type, and product.
 - Designed dashboards with **user experience and executive readability** in mind.
 - Ensured a clean, executive-friendly layout suitable for both desktop and mobile viewing.
